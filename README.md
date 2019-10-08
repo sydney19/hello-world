@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+heya !
+
+sydney here, 
